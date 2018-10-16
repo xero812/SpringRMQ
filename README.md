@@ -47,6 +47,8 @@ curl -X POST \
 
 ## Receiving Messages
 
+Use this request to check all the received messages.
+
 ```
 curl -X GET \
   http://localhost:8080/message \
