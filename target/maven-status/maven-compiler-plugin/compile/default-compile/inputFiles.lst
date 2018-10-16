@@ -1,0 +1,7 @@
+/Users/300024162/Desktop/gs-rest-service/SpringRMQ/src/main/java/application/data/Data.java
+/Users/300024162/Desktop/gs-rest-service/SpringRMQ/src/main/java/application/actions/Actions.java
+/Users/300024162/Desktop/gs-rest-service/SpringRMQ/src/main/java/application/listener/RabbitMQListener.java
+/Users/300024162/Desktop/gs-rest-service/SpringRMQ/src/main/java/application/Application.java
+/Users/300024162/Desktop/gs-rest-service/SpringRMQ/src/main/java/application/config/RabbitMQConfig.java
+/Users/300024162/Desktop/gs-rest-service/SpringRMQ/src/main/java/application/entity/Message.java
+/Users/300024162/Desktop/gs-rest-service/SpringRMQ/src/main/java/application/service/WorkService.java

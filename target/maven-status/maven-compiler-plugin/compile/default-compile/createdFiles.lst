@@ -1,0 +1,7 @@
+application/Application.class
+application/data/Data.class
+application/entity/Message.class
+application/listener/RabbitMQListener.class
+application/service/WorkService.class
+application/config/RabbitMQConfig.class
+application/actions/Actions.class
